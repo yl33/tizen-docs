@@ -133,6 +133,7 @@ when using security-sensitive API modules in .net applications:
 | `http://tizen.org/privilege/nfc.admin` | platform |  | The application can change NFC settings, such as turning NFC on or off. |
 | `http://tizen.org/privilege/nfc.cardemulation` | public |  | The application can access smart card details, such as credit card details, and allow users to make payments via NFC. |
 | `http://tizen.org/privilege/notification` | public |  | The application can show and hide its own notifications and badges. |
+| `http://tizen.org/privilege/notification.admin` | partner |  | The application can manage notifications. |
 | `http://tizen.org/privilege/packagemanager.admin` | platform |  | The application can install and uninstall application packages. |
 | `http://tizen.org/privilege/packagemanager.clearcache` | public |  | The application can clear other applications' caches. |
 | `http://tizen.org/privilege/packagemanager.info` | public |  | The application can retrieve detailed application package information. |
